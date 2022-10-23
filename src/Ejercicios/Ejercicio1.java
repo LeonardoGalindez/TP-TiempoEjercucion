@@ -12,7 +12,7 @@ public class Ejercicio1 {
 
     public static void main(String[] args) {
 
-        multiplo();
+        multiplo();//cuenta cantidad de veces que se repite el bucle
 
     }
 
