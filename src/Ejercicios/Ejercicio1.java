@@ -9,7 +9,18 @@ package Ejercicios;
  * @author galin
  */
 public class Ejercicio1 {
+
     public static void main(String[] args) {
-        
+
+        multiplo();
+
+    }
+
+    public static void multiplo() {
+        int n = 1;
+        while (!(n == 10)) {
+            n = n + 1;
+        }
+        System.out.println("Se iteraron: " + n + " veces ");
     }
 }
