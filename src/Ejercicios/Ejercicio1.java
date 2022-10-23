@@ -9,5 +9,7 @@ package Ejercicios;
  * @author galin
  */
 public class Ejercicio1 {
-    
+    public static void main(String[] args) {
+        
+    }
 }
